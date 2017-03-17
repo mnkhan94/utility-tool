@@ -1,0 +1,36 @@
+{
+  "name": "utility-tool",
+  "version": "1.0.0",
+  "description": "A utility-tool for my url-shortener made for Full Sail Web Deployment class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnkhan94/utility-tool.git"
+  },
+  "keywords": [
+    "API",
+    "Node"
+  ],
+  "author": "Mohammad Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnkhan94/utility-tool/issues"
+  },
+  "homepage": "https://github.com/mnkhan94/utility-tool#readme",
+  "dependencies": {
+    "body-parser": "^1.17.0",
+    "colors": "^1.1.2",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.0",
+    "fs": "0.0.1-security",
+    "log-timestamp": "^0.1.2",
+    "mysql": "^2.13.0",
+    "randomstring": "^1.1.5",
+    "sequelize": "^3.30.2"
+  }
+}
